@@ -1,0 +1,7 @@
+C:\WORK\GitHub\C_SHARP\IAmTimCorey\csharp-mastercourse\source\repos\StaticClassesDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\WORK\GitHub\C_SHARP\IAmTimCorey\csharp-mastercourse\source\repos\StaticClassesDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\WORK\GitHub\C_SHARP\IAmTimCorey\csharp-mastercourse\source\repos\StaticClassesDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\WORK\GitHub\C_SHARP\IAmTimCorey\csharp-mastercourse\source\repos\StaticClassesDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\WORK\GitHub\C_SHARP\IAmTimCorey\csharp-mastercourse\source\repos\StaticClassesDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\WORK\GitHub\C_SHARP\IAmTimCorey\csharp-mastercourse\source\repos\StaticClassesDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\WORK\GitHub\C_SHARP\IAmTimCorey\csharp-mastercourse\source\repos\StaticClassesDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
